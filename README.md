@@ -9,3 +9,8 @@ Scripts to install and configure my linux programs.
 - Visual Studio Code
 - Vim
 - Git
+
+## Programs that need to be added:
+- Node
+- docker
+- docker compose
