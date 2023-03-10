@@ -14,3 +14,5 @@ echo -e 'GPG key: '$GPGID'\n'
 echo -e 'Paste the code below in github\n'
 
 gpg --armor --export $GPGID
+
+git config --global user.signingkey $GPGID
