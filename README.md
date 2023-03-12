@@ -16,6 +16,8 @@ chmod -R +x ./config
 - Visual Studio Code
 - Vim
 - Git
+- Node and npm
+- Docker
 
 ## Programs that need to be added
 - docker compose
