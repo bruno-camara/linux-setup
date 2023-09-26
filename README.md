@@ -18,6 +18,7 @@ chmod -R +x ./config
 - Git
 - Node and npm
 - Docker
+- R and RStudio
 
 ## Programs that need to be added
 - docker compose
